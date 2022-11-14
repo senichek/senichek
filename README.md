@@ -151,7 +151,7 @@ There are also tests using CYPRESS for frontend and JEST and SUPERTEST for backe
 <br>
 <h2 align=center>Calories tracking app (Java)</h2>
 <img src="./assets/calories.png" alt="screenshot_of_app" width="100%" height="auto" style="border-radius:15px">
-<a href="http://olexiy-calories-tracking.herokuapp.com">http://olexiy-calories-tracking.herokuapp.com</a>
+<a href="https://olexiy-calories-tracking.herokuapp.com">http://olexiy-calories-tracking.herokuapp.com</a>
 
 <br>
 <p>This is the project I did with other students during the internship at <a href="https://javaops.ru/">https://javaops.ru</a>
