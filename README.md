@@ -102,7 +102,7 @@ There are also tests using CYPRESS for frontend and JEST and SUPERTEST for backe
 <br>
 <h2 align=center>Help Desk</h2>
 <img src="./assets/help-desk.png" alt="screenshot_of_app" width="100%" height="auto" style="border-radius:15px">
-<a href="https://shopping-cart-front-react.herokuapp.com">https://shopping-cart-front-react.herokuapp.com</a>
+<a href="https://lush-agreement.surge.sh">https://lush-agreement.surge.sh</a>
 
 <br>
 <p>I did this project in order to experiment a bit with <b>Socket.IO</b>. This is a really basic chat app where users can register as "helpers" if they want to provide help to others (act as tech assistants or tech support) or as "user" if they'd like to get some help.</p> 
