@@ -82,6 +82,24 @@
 
 <br>
 <br>
+<h2 align=center>Lessons Booking</h2>
+<img src="./assets/lesson-scheduler.png" alt="screenshot_of_app" width="100%" height="auto" style="border-radius:15px">
+
+<a href="https://obeisant-trees.surge.sh">https://obeisant-trees.surge.sh/</a>
+
+<br>
+<p>The website is designed for students to book (reserve) the time slots for private lessons. The website supports only one teacher (one admin) with multiple students. The teacher (admin) can create (open) time slots and the users (students) can book them. The teacher can also add and modify the description of each time slot (lesson). The students can modify their profile information.</p>
+
+<p><b>Stack:</b> Java, Spring Boot, Hibernate, Data JPA, Postgres, Junit tests, React, Redux, HTML, CSS.</p>
+
+<p><b>Backend repository:</b> <a href="https://github.com/senichek/lesson-scheduler/tree/dev">https://github.com/senichek/lesson-scheduler/tree/dev</a></p>
+
+<p><b>Frontend repository:</b> <a href="https://github.com/senichek/lesson-scheduler-front/tree/dev">https://github.com/senichek/lesson-scheduler-front/tree/dev</a></p>
+
+<p><b>Swagger Docs:</b> <a href="https://lessons-booking.herokuapp.com/swagger-ui/index.html">https://lessons-booking.herokuapp.com/swagger-ui/index.html</a></p>
+
+<br>
+<br>
 <h2 align=center>Shopping cart</h2>
 <img src="./assets/shopping-cart.png" alt="screenshot_of_app" width="100%" height="auto" style="border-radius:15px">
 
