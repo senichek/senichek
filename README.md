@@ -120,7 +120,7 @@ There are also tests using CYPRESS for frontend and JEST and SUPERTEST for backe
 <br>
 <h2 align=center>Help Desk</h2>
 <img src="./assets/help-desk.png" alt="screenshot_of_app" width="100%" height="auto" style="border-radius:15px">
-<a href="https://shopping-cart-front-react.herokuapp.com">https://shopping-cart-front-react.herokuapp.com</a>
+<a href="https://lush-agreement.surge.sh">https://lush-agreement.surge.sh</a>
 
 <br>
 <p>I did this project in order to experiment a bit with <b>Socket.IO</b>. This is a really basic chat app where users can register as "helpers" if they want to provide help to others (act as tech assistants or tech support) or as "user" if they'd like to get some help.</p> 
@@ -169,7 +169,7 @@ There are also tests using CYPRESS for frontend and JEST and SUPERTEST for backe
 <br>
 <h2 align=center>Calories tracking app (Java)</h2>
 <img src="./assets/calories.png" alt="screenshot_of_app" width="100%" height="auto" style="border-radius:15px">
-<a href="http://olexiy-calories-tracking.herokuapp.com">http://olexiy-calories-tracking.herokuapp.com</a>
+<a href="https://olexiy-calories-tracking.herokuapp.com">http://olexiy-calories-tracking.herokuapp.com</a>
 
 <br>
 <p>This is the project I did with other students during the internship at <a href="https://javaops.ru/">https://javaops.ru</a>
@@ -206,7 +206,7 @@ This is a voting system for deciding where to have lunch. 2 types of users: admi
 <a href="https://money-transfer.herokuapp.com">https://money-transfer.herokuapp.com</a>
 
 <br>
-<p>One of the projects I did during my training at Openclassrooms. The desciption of the course: <a href="https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java">https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java</a>
+<p>One of the projects I did during my training at Openclassrooms. The description of the course: <a href="https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java">https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java</a>
 <br> The application allows adding people to the friend's list (connections) and transferring the money between the friends from the list. You can also recharge your account by adding the money.</p>
 
 <p><b>Stack:</b> Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, JUnit, Bootstrap.</p>
