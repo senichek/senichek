@@ -56,6 +56,28 @@
 
 # Projects
 
+<h2 align=center>Scrapper</h2>
+<img src="./assets/vinted-scrapper.png" alt="screenshot_of_app" width="100%" height="auto" style="border-radius:15px">
+
+<a href="https://master.d2imhw0b6ue2nv.amplifyapp.com">https://master.d2imhw0b6ue2nv.amplifyapp.com</a>
+<br>
+<br>
+
+<p>The purpose of this project was to experiment a bit with <a href="https://aws.amazon.com/amplify/">AWS Amplify</a>, <a href="https://aws.amazon.com/lambda/">AWS Lambda</a>, <a href="https://aws.amazon.com/api-gateway/">AWS API Gateway</a> and Python.</p>
+
+<p>In order to get everything up and running I completed the following steps:</p>
+<ul>
+    <li>Created 2 AWS Lambda functions (one is responsible for getting the sources from Vinted (Python) and another one is responsible for getting the information from MongoDB Atlas (JavaScript));</li>
+    <li>Linked both functions to 2 different API Gateways (once you hit the specific URL the function gets invoked);</li>
+    <li>Installed <a href="https://airbnb.io/visx/">VISX library</a> to create a component with the vertical bars;</li>
+</ul>
+<p>When the application loads the "useEffect" hook fetches the data ("Axios" sends the get request to one of the Lambda functions to get the information from the data base). When a user clicks "Refresh Data" button the 2nd lambda function is invoked (Python) to get the data from Vinted and to persist the data to MongoDB.</p>
+
+<p><b>Stack:</b> React, Axios, NodeJS, Python, AWS Lambda, AWS Amplify, AWS Gateway, MongoDB, VISX, MUI, HTML, CSS.</p>
+
+<p><b>Repository:</b> <a href="https://github.com/senichek/vinted-scrapper">https://github.com/senichek/vinted-scrapper</a></p>
+<br>
+<br>
 <h2 align=center>MusicO'll Meet</h2>
 <img src="./assets/mom.png" alt="screenshot_of_app" width="100%" height="auto" style="border-radius:15px">
 
