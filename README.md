@@ -56,6 +56,28 @@
 
 # Projects
 
+<h2 align=center>Facts About Trains (deployed in US region so please give it some time to load)</h2>
+<img src="./assets/facts-about-trains.png" alt="screenshot_of_app" width="100%" height="auto" style="border-radius:15px">
+
+<a href="https://master.d6v9mxb3omikr.amplifyapp.com">https://master.d6v9mxb3omikr.amplifyapp.com</a>
+<br>
+<br>
+
+<p>The purpose of this project was to experiment a bit with <a href="https://aws.amazon.com/bedrock/">Amazon Bedrock</a>, <a href="https://aws.amazon.com/lambda/">AWS Lambda</a>, <a href="https://aws.amazon.com/api-gateway/">AWS API Gateway</a> and Python.</p>
+
+<p>Setup is the following:</p>
+<ul>
+    <li>Python function to connect to AI21 Studio Jurassic-2 model (AWS lambda);</li>
+    <li>UI done using React;</li>
+</ul>
+<p>When the application loads the "useEffect" hook fetches the data from the model. The model can provide the same response it provided previously, there is no logic in place to prevent the dupes.</p>
+
+<p><b>Stack:</b> React, Fetch API, NodeJS, Python, AWS Lambda, AWS Amplify, AWS Gateway, AMazon Bedrock, HTML, CSS.</p>
+
+<p><b>Repository:</b> <a href="https://github.com/senichek/ai-cheer-me-up">https://github.com/senichek/ai-cheer-me-up</a></p>
+<br>
+<br>
+
 <h2 align=center>Scrapper</h2>
 <img src="./assets/vinted-scrapper.png" alt="screenshot_of_app" width="100%" height="auto" style="border-radius:15px">
 
