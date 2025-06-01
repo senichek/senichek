@@ -14,6 +14,7 @@
 <h3>Languages:</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%233178C6.svg?style=for-the-badge&logo=Java&logoColor=white)
 
 <h3>Frameworks:</h3>
@@ -27,6 +28,7 @@
 
 ![NodeJS](https://img.shields.io/badge/node_js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![SpringBoot](https://img.shields.io/badge/spring_boot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/spring_security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 
@@ -39,6 +41,7 @@
 
 <h3>Databases:</h3>
 
+![DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -72,7 +75,7 @@
 </ul>
 <p>When the application loads the "useEffect" hook fetches the data from the model. The model can provide the same response it provided previously, there is no logic in place to prevent the dupes.</p>
 
-<p><b>Stack:</b> React, Fetch API, NodeJS, Python, AWS Lambda, AWS Amplify, AWS Gateway, AMazon Bedrock, HTML, CSS.</p>
+<p><b>Stack:</b> React, Fetch API, NodeJS, Python, AWS Lambda, AWS Amplify, AWS Gateway, Amazon Bedrock, HTML, CSS.</p>
 
 <p><b>Repository:</b> <a href="https://github.com/senichek/ai-cheer-me-up">https://github.com/senichek/ai-cheer-me-up</a></p>
 <br>
